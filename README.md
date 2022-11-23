@@ -15,6 +15,5 @@
   <img align="center" alt="JoaoReact" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
   
-<div>
-  ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
-</div>
+![snake gif](https://github.com/JoaoMaciel5G/JoaoMaciel5G/blob/output/github-contribution-grid-snake.svg)
+
