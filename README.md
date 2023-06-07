@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Oii!+Eu+sou+o+Jo%C3%A3o+Maciel)](https://git.io/typing-svg)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoMaciel5G)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   <a href="https://github.com/JoaoMaciel5G">
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoMaciel5G&show_icons=true&theme=tokyonight)
 </div>
 <div style="display: inline_block"><br>
   <h2>Techs que mais uso</h2>
