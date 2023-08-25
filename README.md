@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Oii!+Eu+sou+o+Jo%C3%A3o+Maciel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Ola!+Me+chamo+Jo%C3%A3o+Maciel)](https://git.io/typing-svg)
 <div>
   <a href="https://github.com/JoaoMaciel5G">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMaciel5G&show_icons=true&theme=tokyonight" />
