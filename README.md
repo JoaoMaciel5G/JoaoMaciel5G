@@ -13,6 +13,3 @@
   <img align="center" alt="JoaoReact" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="JoaoNext" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
 </div>
-  
-![snake gif](https://github.com/JoaoMaciel5G/JoaoMaciel5G/blob/output/github-contribution-grid-snake.svg)
-
